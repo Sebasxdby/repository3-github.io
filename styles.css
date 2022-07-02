@@ -1,0 +1,11 @@
+body{
+    background-image: url("space.gif");
+}
+
+
+.center{
+    width: 400px;
+    margin: 0 auto;
+    background-color: #0e325c;
+    border: 5px white ridge;
+}
